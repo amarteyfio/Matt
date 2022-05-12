@@ -1,0 +1,99 @@
+/* Importing fonts from Google */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+/* Reseting */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: #ffffff
+    /*ecf0f3;*/
+}
+
+.wrapper {
+    max-width: 70vh;
+    min-height: 500px;
+    margin: 80px auto;
+    padding: 40px 30px 30px 30px;
+    background-color: #d9534f;
+    border-radius: 15px;
+    box-shadow: 13px 13px 20px #cbced1, -13px -13px 20px #fff;
+}
+
+.logo {
+    width: 80px;
+    margin: auto;
+}
+
+.logo img {
+    width: 100%;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0px 0px 3px #5f5f5f,
+        0px 0px 0px 5px #ecf0f3,
+        8px 8px 15px #a7aaa7,
+        -8px -8px 15px #fff;
+}
+
+.wrapper .name {
+    font-weight: 600;
+    font-size: 1.4rem;
+    letter-spacing: 1.3px;
+    padding-left: 10px;
+    color: #555;
+}
+
+
+.container { 
+  /*height: 50px;*/
+  /*position: relative;*/
+ /* border: 3px solid green; */
+}
+
+
+.container1 {
+    height: 50px;
+    position: relative;
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.signinbuttons {
+    background-color: #FFFFFF;
+    color: #800000;
+    border-radius: 40px;
+    width: 200px;
+
+}
+
+
+.passwordcenter {
+    margin-left: 50px;
+}
+
+
+.text-white {
+    color: white;
+}
+
+.linktext {
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+
+/* input[type=text]{
+    width: 50vh;
+    border-radius: 10vh;
+} */

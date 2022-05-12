@@ -1,0 +1,6 @@
+class Db{
+
+    function finance(){
+        
+    }
+}

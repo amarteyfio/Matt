@@ -1,0 +1,331 @@
+[{
+        "code": "ENGL112",
+        "course_title": "Written and Oral Communication",
+        "cohort": "A",
+        "students": [
+            "00192025"
+        ]
+    }, {
+
+        "code": "AS111",
+        "course_title": "Ashesi Success",
+        "cohort": "A",
+        "students": []
+    }, {
+
+        "code": "MATH161",
+        "course_title": "Engineering Calculus",
+        "cohort": "A",
+        "students": [
+
+        ]
+    }, {
+
+        "code": "BUSA161",
+        "course_title": "Foundations of Design and Entrepreneurship I",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+
+        "code": "ENGR112",
+        "course_title": "Introduction to Engineering",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+
+        "code": "CS111",
+        "course_title": "Introduction to Computing and Information Systems",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+
+        "code": "MATH121",
+        "course_title": "Pre-Calculus I",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+
+        "code": "MATH141",
+        "course_title": "Introduction to Engineering",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+
+        "code": "ENGR112",
+        "course_title": "Calculus I",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+
+    {
+        "comment": "2025 ENDS HERE"
+    },
+    {
+        "code": "SOAN221",
+        "course_title": "Leadership Seminar II: Rights, Ethics and Rule of Law",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "MATH222",
+        "course_title": "Statistics",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "ECON101",
+        "course_title": "Microeconomics",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "BUSA210",
+        "course_title": "Financial Accounting",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "CS221",
+        "course_title": "Discrete Structures and Theory",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "CS222",
+        "course_title": "Data Structures and Algorithms",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "SC113",
+        "course_title": "Physics II: Electromagnetism",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "MATH152",
+        "course_title": "Statistics for Engineering",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "CE122",
+        "course_title": "Applied Programming for Engineers",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "ME212",
+        "course_title": "Thermodynamics",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "comment": "2024 ENDS HERE"
+    },
+    {
+        "code": "SOAN411",
+        "course_title": "Leadership Seminar IV",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "BUSA311",
+        "course_title": "Managerial Accounting",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "BUSA350",
+        "course_title": "International Trade & Policy",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "IS331",
+        "course_title": "IT Infrastructure",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "IS332",
+        "course_title": "Systems Administration Lab",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "IS361",
+        "course_title": "IT Infrastructure",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "CS415",
+        "course_title": "Software Engineering",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "CS456",
+        "course_title": "Algorithm Design and Analysis",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "BUSA100",
+        "course_title": "Principles of Economics",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "CS432",
+        "course_title": "Networks and Data Communication",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "ENGR312",
+        "course_title": "Control Systems",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "ENGR300",
+        "course_title": "Year 3 Group Project and Seminar",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "CE322",
+        "course_title": "Digital Systems Design",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "ME431",
+        "course_title": "Fluid Mechanics",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "ME301",
+        "course_title": "Mechanical Machine Design",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "EE342",
+        "course_title": "Advanced Electrical Machines and Power Electronics",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "comment": "2023 ENDS HERE"
+    },
+    {
+        "code": "BUSA405",
+        "course_title": "Competitive Strategy",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "ENG413",
+        "course_title": "Project Management and Professional Practice",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "ENGR401",
+        "course_title": "Senior Project and Seminar",
+        "cohort": "A",
+        "students": [
+
+        ]
+    },
+    {
+        "code": "ME441",
+        "course_title": "Manufacturing Processes",
+        "cohort": "A",
+        "students": [
+
+        ]
+    }
+
+
+
+
+
+]
